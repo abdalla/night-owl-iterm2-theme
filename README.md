@@ -1,5 +1,15 @@
 # Night Owl 🌌
 
+An iTerm2 theme based on [Sarah Drasner's VS Code
+theme](https://github.com/sdras/night-owl-vscode-theme) of the same name.
+
+**Installation:** Drag the file `themes/Night Owl.itermcolors` onto iTerm2, or import
+it in *Preferences > Profiles > Colors*.
+
+Original README follows.
+
+---
+
 [![Version](https://vsmarketplacebadge.apphb.com/version/sdras.night-owl.svg)](https://aka.ms/nightowl)
 [![Downloads](https://img.shields.io/vscode-marketplace/d/sdras.night-owl.svg)](https://aka.ms/nightowl)
 
