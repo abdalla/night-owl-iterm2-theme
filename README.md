@@ -8,6 +8,9 @@ theme](https://github.com/sdras/night-owl-vscode-theme) of the same name.
 **Installation:** Drag the file `themes/Night Owl.itermcolors` onto iTerm2, or import
 it in *Preferences > Profiles > Colors*.
 
+**Colors used:**
+- Green: `ansiGreen` and `ansiBrightGreen` from Commit b6a97b0
+
 Original README follows.
 
 ---
