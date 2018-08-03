@@ -3,7 +3,7 @@
 An iTerm2 theme based on [Sarah Drasner's VS Code
 theme](https://github.com/sdras/night-owl-vscode-theme) of the same name.
 
-![](https://cl.ly/tTSK/Screen%20Shot%202018-08-03%20at%202.48.33%20PM.png)
+![](https://cl.ly/tU7K/Screen%20Shot%202018-08-03%20at%205.00.46%20PM.png)
 
 **Installation:** Drag the file `themes/Night Owl.itermcolors` onto iTerm2, or import
 it in *Preferences > Profiles > Colors*.
