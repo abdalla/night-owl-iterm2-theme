@@ -1,6 +1,6 @@
 # Night Owl 🌌
 
-An iTerm2 theme based on [Sarah Drasner's VS Code
+An iTerm2 theme based on [Sarah Drasner&rsqsuo;s VS Code
 theme](https://github.com/sdras/night-owl-vscode-theme) of the same name.
 
 ![](https://cl.ly/tU7K/Screen%20Shot%202018-08-03%20at%205.00.46%20PM.png)
@@ -8,8 +8,14 @@ theme](https://github.com/sdras/night-owl-vscode-theme) of the same name.
 **Installation:** Drag the file `themes/Night Owl.itermcolors` onto iTerm2, or import
 it in *Preferences > Profiles > Colors*.
 
-**Colors used:**
-- Green: `ansiGreen` and `ansiBrightGreen` from Commit b6a97b0
+**Recommended iTerm2 Settings:**
+- Preferences > Profiles > Text > Text Rendering
+  - [ ] Draw bold text in bold font
+  - [x] Draw bold text in bright colors
+  - Use thin strokes for anti-aliased text: _On Retina Displays and Dark Backgrounds_
+
+**Improvised colors:**
+- Due to lack of green options, `DarkGreen` was taken from `terminal.ansiBrightGreen` in Commit b6a97b0
 
 Original README follows.
 
