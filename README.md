@@ -5,17 +5,28 @@ theme](https://github.com/sdras/night-owl-vscode-theme) of the same name.
 
 ![](https://cl.ly/3h3k2f2Z3H3o/Screen%20Shot%202018-08-09%20at%2012.03.16%20PM.png)
 
-**Installation:** Drag the file `themes/Night Owl.itermcolors` onto iTerm2, or import
+### Installation
+Drag the file `themes/Night Owl.itermcolors` onto iTerm2, or import
 it in *Preferences > Profiles > Colors*.
 
-**Recommended iTerm2 Settings:**
+### Recommended iTerm2 Settings
 - Preferences > Profiles > Text > Text Rendering
   - [ ] Draw bold text in bold font
   - [x] Draw bold text in bright colors
   - Use thin strokes for anti-aliased text: _On Retina Displays and Dark Backgrounds_
 
-**Improvised colors:**
-- Due to lack of green options, `DarkGreen` was taken from `terminal.ansiBrightGreen` in Commit b6a97b0
+### Color sources
+
+|         | Normal                                              | Bright                                     |
+|---------|-----------------------------------------------------|--------------------------------------------|
+| Black   | `#011627`<br>`editor.background`                    | `#44596b`<br>`activityBarBadge.background` |
+| Red     | `#f78c6c`<br>`Number`                               | `#ef5350`<br>`errorForeground`             |
+| Green   | `#addb67`<br>`String`                               | `#22da6e`<br>`terminal.ansiBrightGreen`    |
+| Yellow  | `#ffcb8b`<br>`Class name`                           | `#ffeb95`<br>`Constant Other Color`        |
+| Blue    | `#82aaff`<br>`Built-in constant`<br>`Function name` | `#5ca7e4`<br>`RegExp String`               |
+| Magenta | `#c792ea`<br>`Keyword`                              | `#7e57c2`<br>`button.hoverBackground`      |
+| Cyan    | `#7fdbca`<br>`Meta tag`                             | `#21c7a8`<br>`terminal.ansiCyan`           |
+| White   | `#bec5d4`<br>`PHP Variables`                        | `#ffffff`<br>`Object Comma`                |
 
 Original README follows.
 
