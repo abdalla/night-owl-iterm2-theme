@@ -1,6 +1,6 @@
 # Night Owl 🌌
 
-An iTerm2 theme based on [Sarah Drasner&rsqsuo;s VS Code
+An iTerm2 theme based on [Sarah Drasner&rsquo;s VS Code
 theme](https://github.com/sdras/night-owl-vscode-theme) of the same name.
 
 ![](https://cl.ly/3h3k2f2Z3H3o/Screen%20Shot%202018-08-09%20at%2012.03.16%20PM.png)
