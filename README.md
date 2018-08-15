@@ -9,6 +9,11 @@ theme](https://github.com/sdras/night-owl-vscode-theme) of the same name.
 Drag the file `themes/Night Owl.itermcolors` onto iTerm2, or import
 it in *Preferences > Profiles > Colors*.
 
+There is also a `Night Owl (inverse).itermcolors` theme, which swaps the
+"normal"/"bright" colors; the default "normal" colors are the common foreground
+colors used in the VS Code theme, but if for some reason your iTerm setup uses
+the "bright" colors as foreground colors, you may use this inverse theme.
+
 ### Recommended iTerm2 Settings
 - Preferences > Profiles > Text > Text Rendering
   - [ ] Draw bold text in bold font
